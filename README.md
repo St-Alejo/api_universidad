@@ -2,7 +2,9 @@
 
 Sistema universitario con herencia e interfaces, sin persistencia (datos en memoria).
 
+## Diagrama UML
 
+![UML Universidad](image/uml%20niversidad.png)
 
 ## Datos precargados
 
